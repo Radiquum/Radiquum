@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Kentai Radiquum
 
-<!--
-**Radiquum/Radiquum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Red Pandas lover. self taught python, html & css programmer.
 
-Here are some ideas to get you started:
+and this is my github profile 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My pronouns: He\Him\Wah\Protowah
+
+🐾 If you didn't notice already, I'm a Furry: [![FurAffinity](https://furry-badges.herokuapp.com/badge/user/furaffinity/Radiquum/)](https://furaffinity.net/user/radiquum)
+
+📧 If you need to reach me for some reason, my most used contacts can be found on my [site](https://paws.cf)
+
+⚡ Fun fact: I'm making stupid things
+
+▶️ I’m currently working on [Furaffinity-dl](https://github.com/radiquum/furaffinity-dl)
+
+✅ Last thing I worked on [OurStore](https://github.com/radiquum/OurStore)
