@@ -12,6 +12,6 @@ My pronouns: He\Him\Wah\Protowah
 
 ⚡ Fun fact: I'm making stupid things
 
-▶️ I’m currently working on [Furaffinity-dl](https://github.com/radiquum/furaffinity-dl)
+▶️ I’m currently working on ---
 
-✅ Last thing I worked on [OurStore](https://github.com/radiquum/OurStore)
+✅ Last thing I worked on [Furaffinity-dl](https://github.com/radiquum/furaffinity-dl)
