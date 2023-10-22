@@ -1,19 +1,13 @@
-# Hi, I'm Kentai Radiquum
+# Kentai Radiquum 🍎
 
-Red Pandas lover. self taught python, html & css programmer.
+He/Him/Wah <br> Cute fluffy red panda 🍎
 
-and this is my github profile 🧑‍💻
+I like red pandas, arts 🎨, photography 📸, plushies 🧸, technology 👨‍💻 and other stuff
 
-My pronouns: He\Him\Wah\Protowah
+Mainly writing code on python, but sometimes I try new things. 👨‍💻 <br> Currently learning more about front-end development. 🤓
 
-🐾 If you didn't notice already, I'm a Furry: [![FurAffinity](FUR%20AFFINITY%20RADIQUUM.svg)](https://furaffinity.net/user/radiquum)
+I photograph random stuff, mostly landscapes 📸 <br> My main camera is «Lumix FZ-8», but sometimes I take photos on my phone. <br> all of my photos are available at a [website](https://wah.su/photos)
 
-🎵 My last played track is: [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/Radiquum/latest-song?format=shields.io&style=for-the-badge&label=%20)](https://github.com/biancarosa/lastfm-last-played)
+📧 If you want to connect with me, feel free to DM in Telegram or on other platforms, all of them are available on [bento](https://bento.me/radiquum)
 
-📧 If you need to reach me for some reason, my most used contacts can be found on my [website 🌐](https://paws.cf)
-
-⚡ Fun fact: I'm making stupid things
-
-▶️ I’m currently working on ---
-
-✅ Last thing I worked on [Furaffinity-dl](https://github.com/radiquum/furaffinity-dl)
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=pink&url=https://lastfm-last-played.biancarosa.com.br/Radiquum/latest-song?format=shields.io&style=for-the-badge&logo=lastdotfm&label=Last%20Played%20Song)](https://github.com/biancarosa/lastfm-last-played)
